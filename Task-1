@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+    int a=1;
+    int b=12;
+    int c=13;
+    printf("%d\t,/a);
+
+
+    printf("%d\t",/b);
+    printf("%d\t",/c);
+
+}
